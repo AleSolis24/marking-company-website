@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+   
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -158,14 +158,13 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*delted the "." from ".footer" since I have replaced the div tag with a footer tag */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 footer h2 {
     font-size: 20px;
 }
