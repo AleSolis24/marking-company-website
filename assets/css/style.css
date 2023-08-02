@@ -45,9 +45,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*I changed the px size from 16 to 20 to make it more clear to the user to read */
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .hero {
