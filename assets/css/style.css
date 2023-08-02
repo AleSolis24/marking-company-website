@@ -47,7 +47,7 @@ a {
 }
 /*I changed the px size from 16 to 20 to make it more clear to the user to read */
 p {
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .hero {
@@ -91,6 +91,7 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    text-align: center;
 }
 
 .benefit-lead h3 {
